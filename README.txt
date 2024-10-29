@@ -1,3 +1,5 @@
+https://github.com/DanielPHenricks/CS3891_Project
+
 wget -O 2023_09_28_16_19_25_2T3MWRFVXLW056972microstrain_record.bag.zip "https://cps-vo.org/sites/cps-vo.org/files/2024-09/2023_09_28_16_19_25_2T3MWRFVXLW056972microstrain_record.bag_.zip"
 unzip 2023_09_28_16_19_25_2T3MWRFVXLW056972microstrain_record.bag.zip
 docker build --tag rosblank .
