@@ -7,8 +7,3 @@ docker network create localros
 docker run -it --rm --net localros --name master --env ROS_HOSTNAME=master --env ROS_MASTER_URI=http://master:11311 rosblank
 
 git clone git@github.com:jmscslgroup/ros2ascii.git && cd ros2ascii && docker build -t ros2ascii . && docker run -it --rm --net localros --name test1 --env ROS_HOSTNAME=ros2ascii --env ROS_MASTER_URI=http://master:11311 ros2ascii bash  
-
-then, inside that container run
-
- ./ros_entrypoint.sh 
- rosrun ros2ascii radar2ascii
