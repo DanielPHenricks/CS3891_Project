@@ -5,3 +5,4 @@ src/
 !src/aracer/*
 devel/
 aracertest/
+.catkin_workspace
