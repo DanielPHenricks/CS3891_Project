@@ -6,3 +6,4 @@ src/
 devel/
 aracertest/
 .catkin_workspace
+*.bag*
