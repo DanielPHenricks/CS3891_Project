@@ -1,5 +1,6 @@
 mytest.bag
 build/
 src/
+!src/aracer/
 devel/
 aracertest/
