@@ -1,0 +1,3 @@
+[submodule "src/aracer"]
+	path = src/aracer
+	url = git@github.com:MaretRudAul/aracer_ros.git
