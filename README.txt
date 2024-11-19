@@ -1,9 +1,5 @@
 ## Github repository
-https://github.com/DanielPHenricks/CS3891_Project
-
-## in project root directory
-wget -O mytest.bag.zip "https://cps-vo.org/sites/cps-vo.org/files/2024-09/2023_09_28_16_19_25_2T3MWRFVXLW056972microstrain_record.bag_.zip"
-unzip mytest.bag.zip
+https://github.com/MaretRudAul/aracer_ros
 
 ## Addendum
 This controller will flatten the oscillation curves by using a linear combination of the traditional constant time gap controller
